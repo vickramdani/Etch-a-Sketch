@@ -3,7 +3,7 @@
 sketch panel in pixel rate with simple javascript.
 
 You can access here:
-[https://vickramdani.github.io/rock-paper-scissor-v2/](https://vickramdani.github.io/rock-paper-scissor-v2/)
+[https://vickramdani.github.io/Etch-a-Sketch/](https://vickramdani.github.io/Etch-a-Sketch/)
 
 This project is created using:
 * HTML
